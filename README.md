@@ -1,7 +1,7 @@
 <h2>Hi, I am JeJo</h2>
 
 [![Linkedin: ankit](https://img.shields.io/badge/jejo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jelin-john/)](https://www.linkedin.com/in/jelin-john/)
-[![StackOverflow](https://img.shields.io/badge/jejo-gray?style=flat-square&logo=StackOverflow&logoColor=orange&link)](https://stackoverflow.com/users/story/9609840)
+[![StackOverflow](https://img.shields.io/badge/jejo-gray?style=flat-square&logo=StackOverflow&logoColor=orange&link)](https://stackoverflow.com/users/9609840/jejo?tab=profile)
 <br>
 <br>
 
